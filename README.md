@@ -110,3 +110,22 @@ use the identity operator to check whether the the value of two variables is the
 1. & Bitwise and 
 2. | Bitwise or
 3. ^ Bitwise xor
+
+
+
+## Numeric Types:
+The numeric type data in python is generally in three formats namely integer, float,complex.
+
+We can create the an integer variables using the two ways:
+1. Directly assigning an integer values to a variables
+2. using a int()class.
+
+## Type casting :
+
+Implicit type convension : compatibles data type are in the general two numeric data types like int and float . it will convert the smaller the data type to larger one to prevent  any data loss. for eg: in data will the be converted to float.
+
+Explicit Type conversion:
+In emplicit type conversion 
+
+
+
